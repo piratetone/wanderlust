@@ -29,6 +29,7 @@ gem 'spring',        group: :development
 gem 'bootstrap-sass',       '3.2.0.0'
 
 gem 'rails_12factor'
+gem 'bcrypt'
 
 
 # Use ActiveModel has_secure_password
